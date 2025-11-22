@@ -1,9 +1,9 @@
-# MPV Single Instance Script
+# [MPV](https://mpv.io/) Single Instance Script
 
 This repo contains a Lua script for MPV that forces all secondary MPV launches to send the file to the main MPV window instead of opening multiple players.
 
 ## 📌 Features
-- Ensures MPV runs as a **single instance**
+- Ensures # [MPV](https://mpv.io/) Single Instance Script runs as a **single instance**
 - Secondary launches forward file paths to the main instance
 - Uses **IPC pipes/sockets** for communication
 - Supports **Windows and Linux**
